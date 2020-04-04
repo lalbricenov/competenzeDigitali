@@ -1,0 +1,207 @@
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: 15 Position: 3	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: 3 Position: 4	NEXT: 0x18c62d0
+DATA: Color: 15 Position: 3	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: 9 Position: 5	NEXT: 0x18c7360
+DATA: Color: 3 Position: 4	NEXT: 0x18c62d0
+DATA: Color: 15 Position: 3	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: 9 Position: 5	NEXT: 0x18c7360
+DATA: Color: 3 Position: 4	NEXT: 0x18c62d0
+DATA: Color: 15 Position: 3	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: 9 Position: 5	NEXT: 0x18c7360
+DATA: Color: 3 Position: 4	NEXT: 0x18c62d0
+DATA: Color: 15 Position: 3	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+Pos 0:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 1:
+DATA: Color: 1 Position: 1	NEXT: (nil)
+
+Pos 2:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 3:
+DATA: Color: 9 Position: 5	NEXT: 0x18c7360
+DATA: Color: 3 Position: 4	NEXT: 0x18c62d0
+DATA: Color: 15 Position: 3	NEXT: (nil)
+
+Pos 4:
+DATA: Color: -1 Position: -1	NEXT: (nil)
+
+Pos 5:
+DATA: Color: 11 Position: 2	NEXT: 0x18c6310
+DATA: Color: 5 Position: 0	NEXT: (nil)
+
+
+30
