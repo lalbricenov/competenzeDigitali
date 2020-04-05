@@ -1,0 +1,9 @@
+Unit cost: 2 Capacity: 1
+Unit cost: 2 Capacity: 1
+Unit cost: 1 Capacity: 5
+Unit cost: 1 Capacity: 4
+Unit cost: 1 Capacity: 5
+Unit cost: 1 Capacity: 4
+Unit cost: 2 Capacity: 1
+Unit cost: 2 Capacity: 1
+2
